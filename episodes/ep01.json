@@ -1,0 +1,20 @@
+{
+  "title": "Danish Ban Gaya YouTuber",
+  "subtitle": "Episode 1 (sample)",
+  "voice": "hi-IN-MadhurNeural",
+  "characters": {
+    "danish": {"name": "Danish", "shirt": "#e63946", "voice": "hi-IN-MadhurNeural"},
+    "friend": {"name": "Raju", "shirt": "#2a9d8f", "skin": "#e0ac69", "voice": "hi-IN-SwaraNeural"}
+  },
+  "scenes": [
+    {
+      "background": {"label": "Danish ka kamra", "sky": "#bfe3ff", "floor": "#d9b98c"},
+      "cast": [{"id": "danish", "x": 400}, {"id": "friend", "x": 880}],
+      "lines": [
+        {"speaker": "danish", "text": "यार राजू, मैं सोच रहा हूँ कि मैं यूट्यूबर बन जाऊँ!"},
+        {"speaker": "friend", "text": "अरे वाह! लेकिन पहला वीडियो किस बारे में बनाएगा?"},
+        {"speaker": "danish", "text": "बस देखता जा, दुनिया हिला दूँगा!"}
+      ]
+    }
+  ]
+}
